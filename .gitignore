@@ -1,0 +1,5 @@
+dist
+node_modules
+credentials.conf
+metadata.json
+.DS_Store
